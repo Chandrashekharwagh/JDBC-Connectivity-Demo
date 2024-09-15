@@ -102,3 +102,7 @@ int rowsAffected = preparedStatement.executeUpdate();
 ## Conclusion
 
 JDBC is a fundamental part of Java's database connectivity capabilities. By understanding how to use JDBC, you can write Java applications that can interact with a wide range of database management systems. This README file provides a basic overview of JDBC connectivity, and you can further explore the topic by consulting the official JDBC documentation and various online resources.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
